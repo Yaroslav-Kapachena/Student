@@ -8,4 +8,6 @@ public class StudentLogic {
         System.out.println("Студент "+student.getFullName()+" говорит.");
     }
 
+    Student student2 = new Student("Игорь",50,2);
+    Student student3 = new Student("Ярослав",14,4);
 }

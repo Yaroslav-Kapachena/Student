@@ -6,5 +6,8 @@ public class TestLogic {
 
         StudentLogic.move(student,"Ваня");
         StudentLogic.talk(student,"Андрей");
+        Student student2 = new Student("Ярослав",14,4);
+        Student student3 = new Student("Матвей",18,3);
+
     }
 }
